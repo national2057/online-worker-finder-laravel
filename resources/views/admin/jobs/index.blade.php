@@ -26,12 +26,12 @@
                             </th>
                             @if (!auth()->user()->isStudent())
                                 <th>
-                                    student
+                                    customer
                                 </th>
                             @endif
                             @if (!auth()->user()->isTeacher())
                                 <th>
-                                    teacher
+                                    mechanics/service center
                                 </th>
                             @endif
                             <th>
@@ -44,7 +44,7 @@
                                 Fees
                             </th>
                             <th>
-                                Attachments for scholarship
+                               Discount
                             </th>
                             <th>
                                 Delivery_date

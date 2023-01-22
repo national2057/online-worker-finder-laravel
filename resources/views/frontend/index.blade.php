@@ -3,7 +3,7 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light ">
             <div class="container-fluid pe-lg-2 p-0">
-                <a class="navbar-brand fw-bold fs-3" href="/">Online Tutor Finder</a>
+                <a class="navbar-brand fw-bold fs-3" href="/">Online Vehicles Repairing</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -85,16 +85,16 @@
                             </span> --}}
                             </button>
                             {{-- <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
-                            <li><a class="dropdown-item" href="#">Science</a></li>
-                            <li><a class="dropdown-item" href="#">Math</a></li>
-                            <li><a class="dropdown-item" href="#">English</a></li>
-                            <li><a class="dropdown-item" href="#">Laravel</a></li>
+                            <li><a class="dropdown-item" href="#">cycle</a></li>
+                            <li><a class="dropdown-item" href="#">Motorbike</a></li>
+                            <li><a class="dropdown-item" href="#">car</a></li>
+                            <li><a class="dropdown-item" href="#">Truck</a></li>
                         </ul> --}}
                         </div>
                         <form action="{{ route('search') }}" type='GET'>
                             @csrf
                             <div class="d-flex align-items-center w-100 h-100 ps-lg-0 ps-sm-3">
-                                <input class=" ps-md-0 ps-3" type="text" placeholder="Enter a subject..." name="query">
+                                <input class=" ps-md-0 ps-3" type="text" placeholder="Enter a vehicles type..." name="query">
                                 <div>
                                     <button class="btn btn-lite" type="submit">Search</button>
                                 </div>
@@ -110,7 +110,7 @@
 
                 {{-- Board --}}
                 <div class=" d-lg-flex flex-lg-row d-flex flex-column-reverse bg-light mt-5">
-                    <img src="/backend/img/board.jpeg" alt="board" class="w-100 h-100">
+                    <img src="/backend/img/car.jpg" alt="board" class="w-100 h-100">
 
                 </div>
                 {{-- Board ends --}}

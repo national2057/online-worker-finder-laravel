@@ -3,7 +3,7 @@
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light ">
         <div class="container-fluid pe-lg-2 p-0">
-            <a class="navbar-brand fw-bold fs-3" href="/">Online Tutor Finder</a>
+            <a class="navbar-brand fw-bold fs-3" href="/">Online Vehicles Repairing</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                 aria-expanded="false" aria-label="Toggle navigation">
@@ -46,19 +46,26 @@
     </div> --}}
     <div class="col-sm-8 mt m-5" style="width: 800px;"> 
 
-        <p>“Web Application for Finding Home Tutor Using Laravel” is a PHP based project that is designed to connect teachers and students that are looking for the private tutoring process. 
+    <p>“Web Application for Finding vehicles repairing  Using Laravel” is a PHP based project that is designed 
+        to connect mechanics/service center and customer that are looking for the home service and freelancing 
+        opertunities. Web App For Online Vehicle repairing is the project, that is being considered in order to 
+        create a platform where users can find and contact the mechanics. This system will act as a bridge between 
+        general users who are looking for a mechanic to fix their vehicles as well as the mechanics who are looking 
+        for job. Both, general users and mechanics can register into this system. The general user can post a request
+         in the system and the mechanics can find the requests and will have option to select or reject the request.
+        </p> 
 
-            This project acts as a bridge between students who are looking for a teacher to have private tuition & the teachers who are looking for student to teach private tuition. 
-            </p>
         <hr>
         <br>
         <h3>What do we do?</h3>
         <ul>
-            <li>Allow students to register</li>
-            <li>Allow teachers to register</li>
-            <li>Allow students to find teachers</li>
-            <li>Negotiate the tuition fees</li>
+          <li>Allow customer to register </li>
+          <li>Allow mechanics/service center to register</li>
+          <li>Allow customers to find mechanics/service center</li>
+          <li>Negotiate the service fees</li>
+
         </ul>
+
       </div>
 
 </div>

@@ -21,11 +21,11 @@ class RoleSeed extends Seeder
             ],
             [
                 'id'         => 2,
-                'title'      => 'student',
+                'title'      => 'customer',
             ],
             [
                 'id'         => 3,
-                'title'      => 'teacher',
+                'title'      => 'service center/mechanic',
             ],
         ];
 

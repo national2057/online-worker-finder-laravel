@@ -14,9 +14,9 @@
                         <div class="row justify-content-center my-2 mb-4">
                             <div class="col-md-6" >
                                 <input type="radio" name="role_id" value="2" checked>
-                                Student
+                                Customer
                                 <input class="ms-3" type="radio" name="role_id" value="3">
-                                Teacher
+                                As a service center
                             </div>
                         </div>
 
@@ -71,7 +71,7 @@
                         </div>
 
                         <div class="row mb-3">
-                            <label for="password-confirm" class="col-md-4 col-form-label text-md-end">{{ __('City') }}</label>
+                            <label for="password-confirm" class="col-md-4 col-form-label text-md-end">{{ __('District/Location') }}</label>
                             <div class="col-md-6">
                                 <select name="country_id" class="form-control">
                                     @foreach ($countries as $id => $country)
@@ -92,7 +92,7 @@
                         </div>
                         {{-- phone ends --}}
 
-                          {{-- subject --}}
+                          <!-- {{-- subject --}}
                           <div class="row mb-3">
                             <label for="subject" class="col-md-4 col-form-label text-md-end">{{ __('subject') }}</label>
 
@@ -110,7 +110,7 @@
                                 <input id="grade" type="text" class="form-control" name="grade" >
                             </div>
                         </div>
-                        {{-- Grade ends --}}
+                        {{-- Grade ends --}} -->
 
                         <div class="row mb-3">
                             <label for="password-confirm" class="col-md-4 col-form-label text-md-end">{{ __('About') }}</label>
