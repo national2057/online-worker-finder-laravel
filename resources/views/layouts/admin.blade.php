@@ -29,7 +29,7 @@
 <body id="page-top">
 
     <!-- Page Wrapper -->
-    <div id="wrapper">
+    <div id="wrapper"> 
 
         <!-- Sidebar -->
             @include('partials.sidebar')
@@ -103,7 +103,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Sharad Chandra Paudel</span>
+                        <!-- <span>Copyright &copy; Ruj</span> -->
                     </div>
                 </div>
             </footer>
