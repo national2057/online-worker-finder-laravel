@@ -37,16 +37,16 @@
                       <p><span>Country </span>: {{auth()->user()->countries()}}</p>
                   </div> --}}
                   <div class="bio-row">
-                      <p><span>phone</span>: {{auth()->user()->phone}}</p>
+                      <p><span>Phone</span>: {{auth()->user()->phone}}</p>
                   </div>
                   <!-- <div class="bio-row">
                       <p><span>Occupation </span>: UI Designer</p>
                   </div> -->
                   <div class="bio-row">
-                      <p><span>subject </span>: {{auth()->user()->subject}}</p>
+                      <p><span> Profession </span>: {{auth()->user()->subject}}</p>
                   </div>
                   <div class="bio-row">
-                      <p><span> For Grade </span>: {{auth()->user()->grade}}</p>
+                      <p><span> Grade </span>: {{auth()->user()->grade}}</p>
                   </div>
                   <div class="bio-row">
                     <p><span> Email </span>: {{auth()->user()->email}}</p>

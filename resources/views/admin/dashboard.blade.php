@@ -29,7 +29,7 @@
 
             {{-- Board --}}
             <div class=" d-lg-flex flex-lg-row d-flex flex-column-reverse bg-light mt-5">
-                <img src="/backend/img/car.jpg" alt="board" class="w-100 h-80" >
+                <img src="/backend/img/cleaner.jpg" alt="board" class="w-100 h-80" >
                 
             </div>
             {{-- Board ends --}}

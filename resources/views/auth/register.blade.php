@@ -16,7 +16,7 @@
                                 <input type="radio" name="role_id" value="2" checked>
                                 Customer
                                 <input class="ms-3" type="radio" name="role_id" value="3">
-                                As a service center
+                                Service Provider
                             </div>
                         </div>
 

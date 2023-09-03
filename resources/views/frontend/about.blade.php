@@ -3,7 +3,7 @@
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light ">
         <div class="container-fluid pe-lg-2 p-0">
-            <a class="navbar-brand fw-bold fs-3" href="/">Online Vehicles Repairing</a>
+            <a class="navbar-brand fw-bold fs-3" href="/">NAT-Services | Online Worker Finder Platform.</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                 aria-expanded="false" aria-label="Toggle navigation">
@@ -46,13 +46,13 @@
     </div> --}}
     <div class="col-sm-8 mt m-5" style="width: 800px;"> 
 
-    <p>“Web Application for Finding vehicles repairing  Using Laravel” is a PHP based project that is designed 
-        to connect mechanics/service center and customer that are looking for the home service and freelancing 
-        opertunities. Web App For Online Vehicle repairing is the project, that is being considered in order to 
-        create a platform where users can find and contact the mechanics. This system will act as a bridge between 
-        general users who are looking for a mechanic to fix their vehicles as well as the mechanics who are looking 
-        for job. Both, general users and mechanics can register into this system. The general user can post a request
-         in the system and the mechanics can find the requests and will have option to select or reject the request.
+    <p>“Web Application for Online Worker Finder Using Laravel” is a PHP based project that is designed 
+        to connect service provider and customer that are looking for the home service and freelancing 
+        opertunities. Web App For Online Worker Finder is the project, that is being considered in order to 
+        create a platform where users can find and contact the service provider. This system will act as a bridge between 
+        general users who are looking for a service provider to fix their vehicles as well as the service provider who are looking 
+        for job. Both, general users and service provider can register into this system. The general user can post a request
+        in the system and the service provider can find the requests and will have option to select or reject the request.
         </p> 
 
         <hr>
@@ -61,7 +61,7 @@
         <ul>
           <li>Allow customer to register </li>
           <li>Allow mechanics/service center to register</li>
-          <li>Allow customers to find mechanics/service center</li>
+          <li>Allow customers to find service provider</li>
           <li>Negotiate the service fees</li>
 
         </ul>

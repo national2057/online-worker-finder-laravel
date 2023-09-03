@@ -59,7 +59,7 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="form-group">
-                                <label for="attachments">Attachment for scholarship</label>
+                                <label for="attachments">Attachments of Problem</label>
                                 <div class="needsclick dropzone" id="attachments-dropzone">
 
                                 </div>

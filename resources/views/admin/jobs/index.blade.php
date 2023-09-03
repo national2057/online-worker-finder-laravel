@@ -26,12 +26,12 @@
                             </th>
                             @if (!auth()->user()->isStudent())
                                 <th>
-                                    customer
+                                    Customer
                                 </th>
                             @endif
                             @if (!auth()->user()->isTeacher())
                                 <th>
-                                    mechanics/service center
+                                    Service Provider
                                 </th>
                             @endif
                             <th>

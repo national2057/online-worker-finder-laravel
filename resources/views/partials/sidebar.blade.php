@@ -2,7 +2,7 @@
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ route('admin.dashboard.index') }}">
-                <div class="sidebar-brand-text mx-3">{{ __('ONLINE VEHICLES REPAIRING') }}</div>
+                <div class="sidebar-brand-text mx-3">{{ __('Online Home Services') }}</div>
             </a>
 
             <!-- Divider -->

@@ -3,7 +3,7 @@
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light ">
         <div class="container-fluid pe-lg-2 p-0">
-            <a class="navbar-brand fw-bold fs-3" href="/">Online Vehicles Repairing</a>
+            <a class="navbar-brand fw-bold fs-3" href="/">NAT-Services | Online Worker Finder Platform.</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                 aria-expanded="false" aria-label="Toggle navigation">
@@ -38,7 +38,7 @@
         <hr>
         <br>
         <h3>You can contact us via</h3> <br> <br>
-        <span>Email: </span> <span>vehiclesrepairing@gmail.com</span>  <br> <br>
+        <span>Email: </span> <span>natservices@gmail.com</span>  <br> <br>
         <span>Phone: </span> <span>9876543210</span> <br> <br>
         <span>FAX: </span> <span>01-2345678</span><br> <br>
         <span>Visit us: </span> <span>Kathmandu, Nepal</span> <br> <br>

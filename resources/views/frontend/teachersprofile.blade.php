@@ -3,7 +3,7 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light ">
             <div class="container-fluid pe-lg-2 p-0">
-                <a class="navbar-brand fw-bold fs-3" href="/">Online Tutor Finder</a>
+                <a class="navbar-brand fw-bold fs-3" href="/">NAT-ServiceS | Online Worker Finder Platform.</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -84,7 +84,7 @@
                                 @isset($star)
                                     <h3>{{ $star }}</h3>
                                 @else
-                                    no raings available
+                                    No ratings available.
                                 @endisset
 
                             </td>
