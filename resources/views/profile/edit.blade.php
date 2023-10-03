@@ -57,7 +57,7 @@
 
                                 </div>
                                 <div class="bio-row">
-                                    <p><span>subject </span>: </p>
+                                    <p><span>Profession</span>: </p>
                                     <input class="form-group" name='subject' type="text", value="{{ $user->subject }}">
 
                                 </div>
@@ -68,7 +68,7 @@
 
                                 </div>
                                 <div class="bio-row">
-                                    <p><span>For grade </span>: </p>
+                                    <p><span>Skill Grade </span>: </p>
                                     <input class="form-group" name='grade' type="text", value="{{ $user->grade }}">
 
                                 </div>

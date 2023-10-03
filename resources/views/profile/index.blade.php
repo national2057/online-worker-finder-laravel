@@ -46,7 +46,7 @@
                       <p><span> Profession </span>: {{auth()->user()->subject}}</p>
                   </div>
                   <div class="bio-row">
-                      <p><span> Grade </span>: {{auth()->user()->grade}}</p>
+                      <p><span> Skill Grade </span>: {{auth()->user()->grade}}</p>
                   </div>
                   <div class="bio-row">
                     <p><span> Email </span>: {{auth()->user()->email}}</p>
